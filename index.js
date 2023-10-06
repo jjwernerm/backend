@@ -10,5 +10,5 @@ const configureRoutes = require('./routes/empleadoRoutes');
 configureRoutes(app);
 
 app.listen(3000, () => {
-  console.log("SERVIDOR ENCENDIDO");
+  console.log("SERVIDOR ENCENDIDO OK");
 });
